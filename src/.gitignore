@@ -1,0 +1,9 @@
+*.class
+*.lst
+.idea/*
+*.iml
+*.xml
+*.pyc
+__pycache__
+.ipynb_checkpoints
+error_log.txt
